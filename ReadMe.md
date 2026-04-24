@@ -1,5 +1,7 @@
 # Grad 2026
 
+Are you graduating in 2026 and you've received an invite to join what I'm exploring for helping you in your job hunt? Then follow the instructions in [this issue](https://github.com/dgilleland/Grad-2026/issues/2).
+
 ## The New Hire
 
 - 💫 [Coding interviews are completely different now (here's why)](https://youtu.be/Do8VuokPbBc?si=cfXNBuLlIPLfh0_Y) by *Marina Wyss*
